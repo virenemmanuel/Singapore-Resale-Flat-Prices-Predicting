@@ -88,13 +88,13 @@ The project involves:
 ## 🖥 Screenshots
 
 ### Home Page
-![Home Page](Home_page.png)
+
 
 ### Price Prediction Page
-![Price Prediction Page](Price_prediction.png)
+
 
 ### About Project Page
-![About Project Page](About.png)
+
 
 ---
 
