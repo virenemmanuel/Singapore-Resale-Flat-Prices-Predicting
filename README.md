@@ -88,13 +88,13 @@ The project involves:
 ## 🖥 Screenshots
 
 ### Home Page
-![Home Page](Singapore-Resale-Flat-Prices-Predicting/Screenshots/Home_page.png)
+![Home Page](C:\Users\viren\OneDrive\Desktop\IIT-MADARAS(GUVI)\Singapore Resale Flat Prices Predicting\Singapore-Resale-Flat-Prices-Predicting\Screenshots\Home_page.png)
 
 ### Price Prediction Page
-![Price Prediction Page](Singapore-Resale-Flat-Prices-Predicting/Screenshots/Price_prediction.png)
+![Price Prediction Page](C:\Users\viren\OneDrive\Desktop\IIT-MADARAS(GUVI)\Singapore Resale Flat Prices Predicting\Singapore-Resale-Flat-Prices-Predicting\Screenshots\Price_prediction.png)
 
 ### About Project Page
-![About Project Page](Singapore-Resale-Flat-Prices-Predicting/Screenshots/About.png)
+![About Project Page](C:\Users\viren\OneDrive\Desktop\IIT-MADARAS(GUVI)\Singapore Resale Flat Prices Predicting\Singapore-Resale-Flat-Prices-Predicting\Screenshots\About.png)
 
 ---
 
