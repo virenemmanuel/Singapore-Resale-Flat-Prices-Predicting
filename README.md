@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-orange)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)  
-![License](https://img.shields.io/badge/License-MIT-green)  
+
 
 ---
 
@@ -88,13 +88,13 @@ The project involves:
 ## 🖥 Screenshots
 
 ### Home Page
-![Home Page](../Screenshots/Home_page.png))
+![Home Page](Singapore-Resale-Flat-Prices-Predicting/Screenshots/Home_page.png)
 
 ### Price Prediction Page
-![Price Prediction Page](Screenshots/Price_prediction.png)
+![Price Prediction Page](Singapore-Resale-Flat-Prices-Predicting/Screenshots/Price_prediction.png)
 
 ### About Project Page
-![About Project Page](Screenshots/About.png)
+![About Project Page](Singapore-Resale-Flat-Prices-Predicting/Screenshots/About.png)
 
 ---
 
