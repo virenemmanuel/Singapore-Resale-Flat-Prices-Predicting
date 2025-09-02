@@ -88,6 +88,7 @@ The project involves:
 ## 🖥 Screenshots
 
 ### Home Page
+https://github.com/virenemmanuel/Singapore-Resale-Flat-Prices-Predicting/blob/a9b118894e4ae102bb6c3eabd3cc4cb09915296a/Home_page.png
 
 
 ### Price Prediction Page
