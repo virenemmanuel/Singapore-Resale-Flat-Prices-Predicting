@@ -92,6 +92,7 @@ https://github.com/virenemmanuel/Singapore-Resale-Flat-Prices-Predicting/blob/a9
 
 
 ### Price Prediction Page
+https://github.com/virenemmanuel/Singapore-Resale-Flat-Prices-Predicting/blob/ce6ca36574f2b9944493472fbccf91e8dcfedfd4/Price_prediction.png
 
 
 ### About Project Page
