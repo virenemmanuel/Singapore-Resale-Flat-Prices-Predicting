@@ -94,7 +94,7 @@ The project involves:
 
 
 ### About Project Page
-
+https://github.com/virenemmanuel/Singapore-Resale-Flat-Prices-Predicting/blob/182e18d608eaad64a6c650089fd112a2718d9e3c/About.png
 
 ---
 
